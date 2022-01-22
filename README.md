@@ -12,7 +12,7 @@
   - CSS
   - JavaScript
   - Git e Github
-  - Metodologia àgil - Kanban
+  - Metodologia Ágil - Kanban
 
 <hr/>
 
