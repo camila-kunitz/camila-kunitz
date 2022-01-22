@@ -5,7 +5,7 @@
 
 <hr/>
 
-### Camila Kunitz - Desenvolvedora fullstack em formação.
+### Camila Kunitz - Desenvolvedora Fullstack em formação.
 - Estudando atualmente: React.
 - Conhecimento:
   - HTML
@@ -17,8 +17,8 @@
 <hr/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camila-kunitz&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true&show_icons=true&hide_title=true&theme=swift"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-kunitz&layout=compact&langs_count=7&hide_title=true&hide_border=false&theme=swift"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=camila-kunitz&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true&show_icons=true&hide_title=true&theme=swift"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-kunitz&layout=compact&langs_count=7&hide_title=true&hide_border=false&theme=swift"/>
 </div>
 
 <hr/>
