@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
 
+<br>
+
 <p align="left">
   Sou <strong>Camila Kunitz</strong>, desenvolvedora de software com foco em tecnologias Front-End.
   Movida a desafios, acredito que devemos estar em constante evolução!
@@ -24,16 +26,7 @@
   <a href="https://www.linkedin.com/in/camila-russo-kunitz-07a78721/"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </p>
 
-<br><br><br><br>
-
-<hr />
-
-<div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=camila-kunitz&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true&show_icons=true&hide_title=true&theme=swift" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-kunitz&layout=compact&langs_count=7&hide_title=true&hide_border=false&theme=swift" />
-</div>
-
-<hr />
+<br>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -44,4 +37,9 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+<hr />
 
+<div align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=camila-kunitz&include_all_commits=true&count_private=true&hide_border=false&hide_rank=true&show_icons=true&hide_title=true&theme=swift" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-kunitz&layout=compact&langs_count=7&hide_title=true&hide_border=false&theme=swift" />
+</div>
