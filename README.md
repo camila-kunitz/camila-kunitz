@@ -1,6 +1,6 @@
 # Olá! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/camila-kunitz/camila-kunitz/main/imagens/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
 
 <br>
 
